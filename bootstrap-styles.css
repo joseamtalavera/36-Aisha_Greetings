@@ -1,0 +1,25 @@
+/* Custom Box Style */
+.custom-box {
+    margin: auto;
+    display:block;
+    max-width:600px;
+    border: 1px solid red;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Red Button */
+.btn-red {
+    background-color: red;
+    color: white;
+}
+
+/* Hover effect for Red Button */
+.btn-red:hover {
+    background-color: darkred;
+}
+
+
+
